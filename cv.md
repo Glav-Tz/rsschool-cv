@@ -1,7 +1,7 @@
 # Anton Gorshkov
 
 Located in **Krasnodar, Russia**  
-**My phone number for communication: +7 952-868-29-78 
+**My phone number for communication: +7 952-868-29-XX 
 E-mail: GlavTz@gmail.com**
 
 My goal is to learn the basics of JS. There is no experience yet, but there is a desire to learn.
