@@ -1,1 +1,1 @@
-https://glav-tz.github.io/rsschool-cv/
+https://glav-tz.github.io/rsschool-cv/cv
